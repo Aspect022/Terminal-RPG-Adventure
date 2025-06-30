@@ -60,7 +60,7 @@ A rich text-based RPG adventure game built in Python featuring dynamic combat, c
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/rpg-adventure.git
+git clone https://github.com/Aspect022/Terminal-RPG-Adventure.git
 cd rpg-adventure
 ```
 
