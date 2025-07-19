@@ -171,4 +171,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - None reported yet! Feel free to open an issue if you find any.
 
 ---
-Made with ❤️ by [Jayesh RL]
+Made with ❤️ by Jayesh RL
